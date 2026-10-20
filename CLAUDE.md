@@ -96,3 +96,8 @@ Never push directly to `main`. Always:
 2. Commit changes
 3. Push branch: `git push -u origin <branch>`
 4. Create PR: `gh pr create`
+
+## Future commit identity
+
+Follow the future commit identity setup and check in `AGENTS.md` before any
+authorized commit. Use ArpSinatra as both author and committer.
